@@ -1,0 +1,9 @@
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Coding.resources
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\obj\Debug\StudentInterview.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Bryan\Desktop\MSSA\C#\StudentInterview\WindowsFormsApp2\obj\Debug\StudentInterview.csprojResolveAssemblyReference.cache
